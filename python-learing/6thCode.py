@@ -1,0 +1,5 @@
+print("Hello")
+firstname=input("what is your first name")
+print("Thanks")
+surname=input("And what is your surname?")
+print("Welcome",firstname,surname+".I hope you are well today")
